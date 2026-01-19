@@ -1,4 +1,4 @@
-# White-box-and-Black-box-report
+# White-box and Black-box-report
 I made full black-box and white- report
 The tested WordPress application demonstrates a high level of security.
 No critical or high risk vulnerabilities were identified that would allow system compromise, unathorized database access, or administrative accout takeover.
